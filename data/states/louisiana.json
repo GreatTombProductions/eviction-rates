@@ -1,0 +1,1 @@
+{"state": "Louisiana", "state_name": "Louisiana", "counties": [{"fips": "22071", "name": "Orleans Parish", "latest_rate": 3.68, "yoy_change": -0.87, "num_years": 8, "renting_hh": 83676}, {"fips": "22115", "name": "Vernon Parish", "latest_rate": 0.48, "yoy_change": 0.11, "num_years": 18, "renting_hh": 10014}], "count": 2}

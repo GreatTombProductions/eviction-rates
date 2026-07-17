@@ -1,0 +1,1 @@
+{"state": "Kansas", "state_name": "Kansas", "counties": [{"fips": "20209", "name": "Wyandotte County", "latest_rate": 8.79, "yoy_change": -0.18, "num_years": 2, "renting_hh": 25623}, {"fips": "20091", "name": "Johnson County", "latest_rate": 3.18, "yoy_change": -0.14, "num_years": 2, "renting_hh": 71790}], "count": 2}
